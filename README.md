@@ -10,6 +10,12 @@ Political Collaboration, Communication and Discourses - decentralized and self-h
 - [ ] Edit existing Channel
 - [ ] Invite to Channel
 
-### Collaboration pads
+### Collaboration Pads
 
-### Votes and discourses
+### Votes and Discourses
+
+- [ ] Preparing Twitter and Facebook Post
+- [ ] Add Twitter and Facebook Credentials
+- [ ] Edit Credentials
+- [ ] Add Rights to User
+- [ ] Vote publically for Post Release
